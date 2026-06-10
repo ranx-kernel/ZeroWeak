@@ -176,21 +176,6 @@ ZeroWeak aims to reduce digital vulnerability through:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-ZeroWeak/
-│
-├── screenshots/
-├── public/
-├── src/
-├── components/
-├── pages/
-├── assets/
-├── package.json
-└── README.md
-
-
 ⚙️ Installation
 # Clone the repository
 git clone https://github.com/your-username/ZeroWeak.git
@@ -221,6 +206,17 @@ This project is licensed under the MIT License.
 Ranx
 
 Cybersecurity Enthusiast • UI/UX Explorer • AI Innovator
+
+⭐ Support
+
+If you like this project:
+
+Give it a ⭐ on GitHub
+Share it on LinkedIn
+Support cybersecurity awareness 🚀
+<p align="center"> <b> ZeroWeak – Stay Aware. Stay Secure.</b> </p> ```
+
+
 
 ⭐ Support
 
