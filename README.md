@@ -215,14 +215,3 @@ Give it a ⭐ on GitHub
 Share it on LinkedIn
 Support cybersecurity awareness 🚀
 <p align="center"> <b> ZeroWeak – Stay Aware. Stay Secure.</b> </p> ```
-
-
-
-⭐ Support
-
-If you like this project:
-
-Give it a ⭐ on GitHub
-Share it on LinkedIn
-Support cybersecurity awareness 🚀
-<p align="center"> <b> ZeroWeak – Stay Aware. Stay Secure.</b> </p> ```
